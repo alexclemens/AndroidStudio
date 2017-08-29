@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HighLowGame</string>
+    <string name="dev_Name">Made by Alex Clemens</string>
+    <string name="start_txt">Press start to begin</string>
+</resources>

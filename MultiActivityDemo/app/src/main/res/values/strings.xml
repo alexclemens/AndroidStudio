@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiActivityDemo</string>
+    <string name="enter_your_name_here">Enter your name here</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+</resources>

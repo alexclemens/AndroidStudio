@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="titleWelcome">Welcome to 5x5 Minesweeper!</string>
+    <string name="reset">Reset</string>
+    <string name="add_flag">Add Flag</string>
+    <string name="text_win">You won!</string>
+    <string name="text_lose">You lost! Try again</string>
+    <string name="draw_flag">FLAG</string>
+    <string name="help">Help</string>
+</resources>
